@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="test" uuid="2dd2f80e-e674-4375-bac3-325617df5f0d">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:C:\Users\99622\IdeaProjects\FinalProjectOop\src\main\resources\databases\test.db</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="WorldCreator" uuid="aef0a8bd-44aa-49c3-bff6-9dc5842e3229">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:C:\Users\99622\IdeaProjects\FinalProjectOop\src\main\resources\databases\WorldCreator.db</jdbc-url>
+    </data-source>
+  </component>
+</project>
