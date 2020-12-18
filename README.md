@@ -1,4 +1,15 @@
 # FinalProjectOop
+
+# Team Members
+
+Anarbaev Aidaraly
+phone number: 0702120301
+Git: Aidaraly
+
+Chyngyz Madymarov
+phone number: 0709945365
+Git: 	chicharitoooo
+
 # INTRODUCTION
 
 This assignment based on developing the Integrated Development Environment for writes.
@@ -62,3 +73,4 @@ name.
 ![World Creator pdf - Google Chrome 12_19_2020 3_04_59 AM](https://user-images.githubusercontent.com/44225090/102661460-0be78c00-41a7-11eb-8a66-e5cdb6c597be.png)
 
 
+This photo shows thath in my PC was Anvar999 git name I forgot to change it 
