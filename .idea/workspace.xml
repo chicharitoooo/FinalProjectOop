@@ -22,7 +22,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6a9d184c-e4d9-4376-b00f-747236c05874" name="Default Changelist" comment="Last Commit" />
+    <list default="true" id="6a9d184c-e4d9-4376-b00f-747236c05874" name="Default Changelist" comment="Last Commit(last commit also Do i but I helped to Anvar to push his project thats why there was his name)" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -87,6 +87,7 @@
       <option name="presentableId" value="Default" />
       <updated>1608281527723</updated>
       <workItem from="1608281530810" duration="6697000" />
+      <workItem from="1608323489714" duration="319000" />
     </task>
     <task id="LOCAL-00001" summary="Last Commit">
       <created>1608318654365</created>
@@ -109,7 +110,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608322989590</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Last Commit(last commit also Do i but I helped to Anvar to push his project thats why there was his name)">
+      <created>1608323806976</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1608323806976</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -125,11 +133,13 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Last Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Last Commit" />
+    <MESSAGE value="Last Commit(last commit also Do i but I helped to Anvar to push his project thats why there was his name)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Last Commit(last commit also Do i but I helped to Anvar to push his project thats why there was his name)" />
   </component>
   <component name="WindowStateProjectService">
     <state x="223" y="0" width="1089" height="824" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1608318424844">
