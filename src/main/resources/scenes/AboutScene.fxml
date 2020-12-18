@@ -18,6 +18,6 @@
       </Label>
    </top>
    <center>
-      <Label prefHeight="323.0" prefWidth="564.0" text="Word Creator is completly free  IDE for writers.&#10;&#10;Write anything anywhere. &#10;&#10;Created by Tilek Sydykov in 2019. &#10;All code is published on Github and available by link https://github.com/TilekSydykov/Architector .  &#10;&#10;&#10;" BorderPane.alignment="CENTER" />
+      <Label prefHeight="323.0" prefWidth="564.0" text="Word Creator is completly free  IDE for writers.&#10;&#10;Write anything anywhere. &#10;&#10;Created by Aidaraly and Chyngyz in 2020. &#10;All code is published on Github and available by link https://github.com/TilekSydykov/Architector .  &#10;&#10;&#10;" BorderPane.alignment="CENTER" />
    </center>
 </BorderPane>
